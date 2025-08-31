@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  text-align: center;
+}
+
+canvas {
+  background: lightblue;
+  display: block;
+  margin: auto;
+}
+
+#jumpBtn {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  padding: 15px 25px;
+  font-size: 20px;
+  border-radius: 10px;
+  background: #ff6600;
+  color: white;
+  border: none;
+}
